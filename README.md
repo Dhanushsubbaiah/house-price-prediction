@@ -5,7 +5,7 @@
 
 Deployed at: https://house89.azurewebsites.net/
 
-• The web App is used to predict the price of the house based on the location, area, number of rooms which is selected by the user.
+• The web App is used to predict the price of the house based on the location, area, number of rooms which is selected by the user
 
 
 
